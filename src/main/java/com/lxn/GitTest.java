@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("这是zmk第一次提交");
       
 
     }
